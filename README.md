@@ -42,9 +42,7 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
         "theme": "SoDaReloaded.sublime-theme"
     }
 
-## Additional Features
-
-### Theme Customisation
+## Theme Customisation
 
 Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of SoDaReloaded Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
 
