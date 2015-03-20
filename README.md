@@ -3,7 +3,6 @@
 Dark custom UI theme for Sublime Text 3 optimized for better readability.
 
 Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Miw0/sodareloaded-theme)
-Project site of original Soda Theme: [http://buymeasoda.github.com/soda-theme/](http://buymeasoda.github.com/soda-theme/)
 
 ## Design
 
@@ -44,16 +43,6 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
     }
 
 ## Additional Features
-
-### Alternate Tab Styles
-
-SoDaReloaded Theme ships with two alternate UI tab styles.
-
-By default, a square tab style is used. If you'd prefer to use the original curved tab style, add the following custom setting to your `Settings - User` file:
-
-    "soda_classic_tabs": true
-
-![Soda Tab Styles](http://buymeasoda.github.com/soda-theme/images/features/multiple-tab-styles.png)
 
 ### Theme Customisation
 
