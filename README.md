@@ -6,7 +6,7 @@ Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Mi
 
 ## Design
 
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![SoDaReloaded Theme](http://www11.pic-upload.de/23.03.15/oa8ihprqqunk.png)
 
 ## Installation
 
