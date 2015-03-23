@@ -46,6 +46,10 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 
 Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of SoDaReloaded Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
 
+## Syntax Highlighting Colour Scheme
+
+The screenshot was made with the [Boneyfied](https://github.com/eibbors/Bubububububad) Color Scheme activated along with the font-face Consolas.
+
 ## License
 
 SoDaReloaded Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme, however please abide by the license terms when doing so.
