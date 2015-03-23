@@ -13,6 +13,10 @@ Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Mi
 
 SoDaReloaded Theme is designed to work with [Sublime Text 3](http://www.sublimetext.com/3dev).
 
+### Using Sublime Package Control
+
+If you are using Will Bond's excellent [Sublime Package Control](https://packagecontrol.io/), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - SoDaReloaded` in the packages list.
+
 ### Using Git
 
 Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
