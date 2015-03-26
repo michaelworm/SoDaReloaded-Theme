@@ -564,7 +564,7 @@
         "row_padding": [0, 4],
         "indent": 20,
         "indent_offset": 0,
-        "indent_top_level": false,
+        "indent_top_level": true,
         "dark_content": true
     },
     // Sidebar rows
