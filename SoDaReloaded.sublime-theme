@@ -563,7 +563,7 @@
         "class": "sidebar_tree",
         "row_padding": [0, 4],
         "indent": 20,
-        "indent_offset": 17,
+        "indent_offset": 0,
         "indent_top_level": false,
         "dark_content": true
     },
@@ -690,9 +690,9 @@
     // Sidebar group closed
     {
         "class": "disclosure_button_control",
-        "content_margin": [8, 8],
+        "content_margin": [0, 0],
         "layer0.texture": "Theme - SoDaReloaded/images/folder-closed.png",
-        "layer0.opacity": 1.0,
+        "layer0.opacity": 0,
         "layer0.inner_margin": 0
     },
     {
@@ -727,8 +727,8 @@
     {
         "class": "icon_folder",
         "layer0.texture": "Theme - SoDaReloaded/images/folder-closed.png",
-        "layer0.opacity": 0,
-        "content_margin": 0
+        "layer0.opacity": 1.0,
+        "content_margin": [8, 8]
     },
     {
         "class": "icon_folder",
