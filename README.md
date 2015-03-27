@@ -7,7 +7,7 @@ Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Mi
 
 ## Design
 
-![SoDaReloaded Theme](http://www11.pic-upload.de/23.03.15/oa8ihprqqunk.png)
+![SoDaReloaded Theme](http://www11.pic-upload.de/27.03.15/h556u6icze9c.png)
 
 ## Installation
 
