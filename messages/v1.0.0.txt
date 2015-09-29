@@ -1,6 +1,11 @@
 Thanks for installing SoDaReloaded Theme, a custom UI theme for Sublime Text 3 optimized for better readability.
 This theme supports the new Sublime Text 3 icons for file types out of the box!
 
+What is new in this version?
+============================
+
+- Added Light variant of the theme!
+
 How to activate?
 ================
 

@@ -1,13 +1,19 @@
 # SoDaReloaded Theme
 
-Dark custom UI theme for Sublime Text 3 optimized for better readability.
+Custom UI theme for Sublime Text 3 optimized for better readability.
 The theme supports the new Sublime Text 3 icons for file types out of the box!
 
 Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Miw0/sodareloaded-theme)
 
 ## Design
 
-![SoDaReloaded Theme](https://raw.githubusercontent.com/Miw0/sodareloaded-theme/master/example.png)
+#### Dark variant
+
+![SoDaReloaded Theme](https://raw.githubusercontent.com/Miw0/sodareloaded-theme/master/dark/example.png)
+
+#### Light variant
+
+![SoDaReloaded Theme](https://raw.githubusercontent.com/Miw0/sodareloaded-theme/master/light/example.png)
 
 ## Installation
 
@@ -39,21 +45,19 @@ While inside the `Packages` directory, clone the theme repository using the comm
 To configure Sublime Text to use the theme, follow the instructions below.
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "SoDaReloaded.sublime-theme"`
+* Add (or update) your theme entry:
 
-**Example Sublime Text User Settings**
+**Example Sublime Text User Settings for the dark variant**
 
     {
-        "theme": "SoDaReloaded.sublime-theme"
+        "theme": "SoDaReloaded Dark.sublime-theme"
     }
 
-## Theme Customisation
+**Example Sublime Text User Settings for the light variant**
 
-Sublime Text provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of SoDaReloaded Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
-
-## Syntax Highlighting Colour Scheme
-
-The screenshot was made with the [Boneyfied](https://github.com/eibbors/Bubububububad) Color Scheme activated along with the font-face Consolas.
+    {
+        "theme": "SoDaReloaded Light.sublime-theme"
+    }
 
 ## License
 
@@ -61,6 +65,4 @@ SoDaReloaded Theme is licensed under the [Creative Commons Attribution-ShareAlik
 
 The following details apply to the Creative Commons license "author specified" components:
 
-* Attribution example: Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
-
-* Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Soda Theme" (or a close variant) in the main project title, repo name or Package Control name.
+Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
