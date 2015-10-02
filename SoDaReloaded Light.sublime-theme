@@ -556,16 +556,15 @@
         "layer0.texture": "Theme - SoDaReloaded/light/images/sidebar-bg.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [1, 1, 2, 1],
-        "content_margin": [7, 4, 0, 0]
+        "content_margin": [0, 0, 1, 0]
     },
     // Sidebar tree
     {
         "class": "sidebar_tree",
-        "row_padding": [0, 4],
-        "indent": 20,
-        "indent_offset": 0,
-        "indent_top_level": true,
-        "dark_content": true
+        "row_padding": [8, 4],
+        "indent": 17,
+        "indent_offset": 15,
+        "indent_top_level": false
     },
     // Sidebar rows
     {
