@@ -59,6 +59,10 @@ To configure Sublime Text to use the theme, follow the instructions below.
         "theme": "SoDaReloaded Light.sublime-theme"
     }
 
+## Color schemes in the design demo
+The color scheme used in the light variant is _Katzenmilch_ and in the dark variant it is _Boneyfied_.
+Both can be found in the package [Bubububububad and Boneyfied Color Schemes](https://packagecontrol.io/packages/Bubububububad%20and%20Boneyfied%20Color%20Schemes)
+
 ## License
 
 SoDaReloaded Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the theme, however please abide by the license terms when doing so.
