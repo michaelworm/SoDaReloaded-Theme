@@ -1,0 +1,28 @@
+Thanks for installing SoDaReloaded Theme, a custom UI theme for Sublime Text 3 optimized for better readability.
+This theme supports the new Sublime Text 3 icons for file types out of the box!
+
+What is new in this version?
+============================
+
+You can now use Soda Rectangular Scrollbars!
+Just set
+    "soda_rect_scrollbars": true
+in your User config to enable it!
+
+How to activate?
+================
+
+- Open your User Settings Preferences file:
+    Sublime Text -> Preferences -> Settings - User
+- Add (or update) your theme entry to be:
+    "theme": "SoDaReloaded Dark.sublime-theme"
+    ... or ...
+    "theme": "SoDaReloaded Light.sublime-theme"
+- Restart your editor
+
+For more information visit: https://github.com/Miw0/sodareloaded-theme
+
+Thanks
+======
+
+SoDaReloaded was created and is maintained by Michael Worm (https://github.com/Miw0).
