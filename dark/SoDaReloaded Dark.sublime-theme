@@ -343,6 +343,27 @@
         "blur": false
     },
 
+    // Rectangular vertical scroll puck
+    {
+        "class": "puck_control",
+        "settings": ["soda_rect_scrollbars"],
+        "layer0.texture": "Theme - SoDaReloaded/dark/images/standard-puck-vertical-r.png",
+        "layer0.opacity": 1.0,
+        "layer0.inner_margin": [0, 10],
+        "content_margin": [8, 12],
+        "blur": false
+    },
+    // Rectangular horizontal scroll puck
+    {
+        "class": "puck_control",
+        "settings": ["soda_rect_scrollbars"],
+        "attributes": ["horizontal"],
+        "layer0.texture": "Theme - SoDaReloaded/dark/images/standard-puck-horizontal-r.png",
+        "layer0.inner_margin": [10, 0],
+        "content_margin": [12, 8],
+        "blur": false
+    },
+
 //
 // OVERLAY SCROLLBARS
 //
