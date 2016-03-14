@@ -60,12 +60,12 @@ To configure Sublime Text to use the theme, follow the instructions below.
     }
 
 ## Soda Special Configurations
-### Want to use Soda Classic Tabs?
+#### Want to use Soda Classic Tabs?
 No problem. Just add this line into your `Settings - User` file.
 
     "soda_classic_tabs": true
     
-### Want to use Soda Rectangular Scrollbars?
+#### Want to use Soda Rectangular Scrollbars?
 No problem. Just add this line into your `Settings - User` file.
 
     "soda_rect_scrollbars": true
