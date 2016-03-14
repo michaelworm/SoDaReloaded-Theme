@@ -59,10 +59,16 @@ To configure Sublime Text to use the theme, follow the instructions below.
         "theme": "SoDaReloaded Light.sublime-theme"
     }
 
-## Want to use Soda Classic Tabs?
+## Soda Special Configurations
+### Want to use Soda Classic Tabs?
 No problem. Just add this line into your `Settings - User` file.
 
     "soda_classic_tabs": true
+    
+### Want to use Soda Rectangular Scrollbars?
+No problem. Just add this line into your `Settings - User` file.
+
+    "soda_rect_scrollbars": true
 
 ## Color schemes in the design demo
 The color scheme used in the light variant is _Katzenmilch_ and in the dark variant it is _Boneyfied_.
