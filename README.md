@@ -1,5 +1,7 @@
 # SoDaReloaded Theme
 
+[![Downloads](https://img.shields.io/packagecontrol/dt/Theme%20-%20SoDaReloaded.svg?style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
+
 Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
 The theme supports the new Sublime Text 3 icons for file types out of the box!
 
