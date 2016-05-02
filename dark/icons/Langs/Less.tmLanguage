@@ -14,7 +14,7 @@
 		<array>
 			<dict>
 				<key>include</key>
-				<string>source.css</string>
+				<string>source.less</string>
 			</dict>
 		</array>
 		<key>scopeName</key>
