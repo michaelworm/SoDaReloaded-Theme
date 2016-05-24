@@ -66,11 +66,16 @@ To configure Sublime Text to use the theme, follow the instructions below.
 No problem. Just add this line into your `Settings - User` file.
 
     "soda_classic_tabs": true
-    
+
 #### Want to use Soda Rectangular Scrollbars?
 No problem. Just add this line into your `Settings - User` file.
 
     "soda_rect_scrollbars": true
+
+#### Want to use Soda Autowidth for Tabs?
+No problem. Just add this line into your `Settings - User` file.
+
+    "soda_tabs_autowidth" : true
 
 ## Color schemes in the design demo
 The color scheme used in the light variant is _Katzenmilch_ and in the dark variant it is _Boneyfied_.

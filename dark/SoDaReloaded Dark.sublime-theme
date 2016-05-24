@@ -116,6 +116,12 @@
         "attributes": ["dirty"],
         "content_margin": [22, 6, 15, 4]
     },
+    // Tab autowidth
+    {
+        "class": "tabset_control",
+        "settings": ["soda_tabs_autowidth"],
+        "tab_width": 0
+    },
 
 //
 // TAB BUTTONS
