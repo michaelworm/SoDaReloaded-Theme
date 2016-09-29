@@ -1,3 +1,6 @@
+# Looking for active maintainers! 
+Due to the lack of free time besides my fulltime job I am not able to actively maintain this project any longer. I'm really sorry for that. If you are willing to continue developing, feel free to contact me! I will be happy about any help!
+
 # SoDaReloaded Theme
 
 [![Downloads](https://img.shields.io/packagecontrol/dt/Theme%20-%20SoDaReloaded.svg?style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
