@@ -1,7 +1,7 @@
 # SoDaReloaded Theme
 
-[![Downloads](https://img.shields.io/packagecontrol/dt/Theme%20-%20SoDaReloaded.svg?style=flat-square)](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
-[![Buy me a beer!](https://img.shields.io/badge/Buy%20me%20a%20beer!-%F0%9F%8D%BA-yellow.svg?style=flat-square)](https://www.paypal.me/Miw0)
+[![Downloads](https://img.shields.io/packagecontrol/dt/Theme%20-%20SoDaReloaded.svg)](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
+[![Buy me a beer!](https://img.shields.io/badge/Buy%20me%20a%20beer!-%F0%9F%8D%BA-yellow.svg)](https://www.paypal.me/Miw0)
 
 Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
 The theme supports the new Sublime Text 3 icons for file types out of the box!
