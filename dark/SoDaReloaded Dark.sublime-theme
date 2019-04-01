@@ -1,6 +1,17 @@
 [
 
 //
+// Window Title
+//
+    // Dark Title, same color as the Side Bar
+    {
+        "class": "title_bar",
+        "fg": [215, 218, 224],
+        "bg": [28, 28, 28]
+    }, 
+
+
+//
 // TABS (REGULAR)
 //
 
