@@ -12,9 +12,9 @@ How to activate?
     "theme": "SoDaReloaded Light.sublime-theme"
 - Restart your editor
 
-For more information visit: https://github.com/Miw0/sodareloaded-theme
+For more information visit: https://github.com/michaelworm/sodareloaded-theme
 
 Thanks
 ======
 
-SoDaReloaded was created and is maintained by Michael Worm (https://github.com/Miw0).
+SoDaReloaded was created and is maintained by Michael Worm (https://github.com/michaelworm).
