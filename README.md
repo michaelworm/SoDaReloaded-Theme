@@ -6,17 +6,17 @@
 Dark and light custom UI themes for Sublime Text 3 optimized for better readability.
 The theme supports the new Sublime Text 3 icons for file types out of the box!
 
-Project site: [https://github.com/Miw0/sodareloaded-theme](https://github.com/Miw0/sodareloaded-theme)
+Project site: [https://github.com/michaelworm/SoDaReloaded-Theme/](https://github.com/michaelworm/sodareloaded-theme)
 
 ## Design
 
 #### Dark variant
 
-![SoDaReloaded Theme](https://raw.githubusercontent.com/Miw0/sodareloaded-theme/master/dark/example.png)
+![SoDaReloaded Theme](https://raw.githubusercontent.com/michaelworm/sodareloaded-theme/master/dark/example.png)
 
 #### Light variant
 
-![SoDaReloaded Theme](https://raw.githubusercontent.com/Miw0/sodareloaded-theme/master/light/example.png)
+![SoDaReloaded Theme](https://raw.githubusercontent.com/michaelworm/sodareloaded-theme/master/light/example.png)
 
 ## Installation
 
@@ -34,7 +34,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/Miw0/sodareloaded-theme/ "Theme - SoDaReloaded"
+    git clone https://github.com/michaelworm/sodareloaded-theme/ "Theme - SoDaReloaded"
 
 ### Download Manually
 
